@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape
+            android:shape="rectangle"
+            android:tint="@color/yellowButton">
+            <corners android:radius="200dp"/>
+            <solid android:color="@color/yellowButton"/>
+            <padding android:bottom="20dp"/>
+
+        </shape>
+    </item>
+
+
+</selector>
